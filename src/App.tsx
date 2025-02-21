@@ -1,5 +1,5 @@
 import React from "react";
-import { Github, Linkedin, Mail, MapPin, Phone } from "lucide-react";
+import { Mail, MapPin, Phone } from "lucide-react";
 
 function App() {
   return (
